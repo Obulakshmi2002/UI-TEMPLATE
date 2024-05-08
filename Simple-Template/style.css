@@ -1,0 +1,28 @@
+.border{
+    border: 3px solid;
+}
+.padding{
+    padding: 20px;
+}
+.margin-top{
+    margin-top: 10px;
+}
+.text-align{
+    text-align: center;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.width-60{
+    width: 60%;
+}
+.width-39{
+    width: 39%;
+}
+.padding-aside{
+    padding: 55px 0px;
+}
+
