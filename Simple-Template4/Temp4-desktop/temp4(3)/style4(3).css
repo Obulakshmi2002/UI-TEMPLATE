@@ -1,0 +1,58 @@
+.border{
+    border: 10px solid green;
+}
+.padding{
+    padding: 10px 0px;
+}
+.text-align{
+    text-align: center;
+}
+.bg-color{
+    background-color: green;
+}
+.bg-color2{
+    background-color: rgb(148, 245, 148);
+}
+.bg-color3{
+    background-color: white;
+}
+.margin-top{
+    margin-top: 10px;
+}
+.margin-left{
+    margin: left;
+}
+.float-left{
+    float:left;
+}
+.float-right{
+    float: right;
+}
+.width-60{
+    width: 60%;
+}
+.width-39{
+    width: 39%;
+}
+.width-95{
+    width: 95%;
+}
+.width-49{
+    width: 49%;
+}
+.margin0-auto{
+    margin:0 auto;
+}
+.padding-main{
+    padding: 50px 0px;
+}
+.padding1{
+    padding: 30px 0px;
+}
+.padding2{
+    padding: 78px 0px;
+}
+.padding-bottom{
+    padding-bottom: 10px;
+}
+

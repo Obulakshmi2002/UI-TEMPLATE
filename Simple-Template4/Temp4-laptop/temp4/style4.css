@@ -1,0 +1,51 @@
+.border{
+    border: 10px solid rgb(0, 149, 0);
+}
+.padding{
+    padding: 10px 0px;
+}
+.bg-color{
+    background-color: rgb(0, 149, 0);
+}
+.bg-color2{
+    background-color: lightgreen;
+}
+.bg-color3{
+    background-color: white;
+}
+.float-left{
+    float: left;
+}
+.width-70{
+    width: 70%;
+}
+.padding-main{
+    padding: 105px 0px;
+}
+.float-right{
+    float: right;
+}
+.width-29{
+    width: 29%;
+}
+.width-95{
+    width: 95%;
+}
+.padding2{
+    padding: 154px 0px;
+}
+.margin-top{
+    margin-top: 10px;
+}
+.margin0-auto{
+    margin:0 auto;
+}
+.padding-arti{
+    padding: 20px 0px;
+}
+.margin{
+    margin-right: 0px;
+}
+.padding-bottom{
+    padding-bottom: 10px;
+}
